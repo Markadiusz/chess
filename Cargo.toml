@@ -1,0 +1,9 @@
+[package]
+name = "chess"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = { version = "0.8.1", features = ["dynamic"] }
+rand = "0.8.5"
+debug_print = "1.0.0"
